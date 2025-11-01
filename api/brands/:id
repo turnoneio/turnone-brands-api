@@ -1,0 +1,25 @@
+// GET /api/brands/:id
+{
+  "id": "rb",
+  "name": "Red Bull",
+  "domain": "redbull.com",
+  "instagram": "@redbull",
+  "industry": "Energy Drinks",
+  "employees_bucket": "1000+",
+  "is_dtc": true,
+  "heat_score": 96,
+  "heat_label": "EXTREMELY HOT",
+  "links": { "website": "https://redbull.com", "instagram": "https://instagram.com/redbull" },
+  "company": {
+    "hq_country": "Austria",
+    "revenue_range": ">$10B",
+    "about": "Premium energy drink with world-class motorsports and extreme sports marketing"
+  },
+  "signals_last_12m": [
+    { "type": "press", "label": "Reuters • Athlete Sponsorship Expansion", "date": "2024-09-19", "score": 38 },
+    { "type": "meta_ads", "label": "Meta Ad Library • 312 active campaigns", "date": "2024-09-30", "score": 30 },
+    { "type": "creator_marketplace", "label": "Listed on AspireIQ", "date": "2024-08-14", "score": 20 },
+    { "type": "social_growth", "label": "Campaign monitoring", "date": "2024-08-31", "score": 7 }
+  ],
+  "tags": ["F1", "motorsports", "extreme sports", "athlete marketing"]
+}
